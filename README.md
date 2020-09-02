@@ -6,11 +6,15 @@
   <p>
     Hi, I'm Twiliness or DarkHighness, undergraduate student.
   </p>
-  <a href="https://github.com/DarkHighness">
-    <img src="https://github-readme-stats.vercel.app/api?username=DarkHighness&show_icons=true&theme=nord"/>
+  <div>
+    <a href="https://github.com/DarkHighness">
+        <img src="https://github-readme-stats.vercel.app/api?username=DarkHighness&show_icons=true&theme=nord"/>
   </a>
-  <a href="https://github.com/DarkHighness">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHighness">
-  </a>
+  </div>
+  <br>
+  <div>
+    <a href="https://github.com/DarkHighness">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHighness">
+    </a>
+  </div>
 </div>
-
