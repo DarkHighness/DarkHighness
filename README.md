@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/DarkHighness">
-    <img width="60" height="60" src="https://avatars1.githubusercontent.com/u/10475770?s=60&v=4"/>
+    <img width="60" height="60" style="border-radius: 30px" src="https://avatars1.githubusercontent.com/u/10475770?s=60&v=4"/>
   </a>
   <p>
     Hi, I'm Twiliness or DarkHighness, undergraduate student.
