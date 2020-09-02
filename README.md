@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <br>
+  <a href="https://github.com/DarkHighness">
+    <img width="60" height="60" src="https://avatars1.githubusercontent.com/u/10475770?s=60&v=4"/>
+  </a>
+  <p>
+    Hi, I'm Twiliness or DarkHighness, undergraduate student.
+  </p>
+  <a href="https://github.com/DarkHighness">
+    <img src="https://github-readme-stats.vercel.app/api?username=DarkHighness&show_icons=true&theme=nord"/>
+  </a>
+  <a href="https://github.com/DarkHighness">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHighness">
+  </a>
+</div>
 
-<!--
-**DarkHighness/DarkHighness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
