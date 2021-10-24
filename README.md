@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/10475770?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
+
 **Hi, I'm Twiliness (DarkHighness), an undergraduate student from China, majoring Computer Science.**
 
 * 😄 **Pronouns**: He/Him
