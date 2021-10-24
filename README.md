@@ -24,8 +24,6 @@
 	</a>
 </div>
 
-## Footer
-
 ![Markdown](https://img.shields.io/badge/markdown%20💘-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
