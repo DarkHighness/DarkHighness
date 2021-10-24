@@ -1,5 +1,5 @@
  <div align="center">
-        <p style="font-weight: bold;">
+        <p strong style="font-weight: bold;">
             Hi, I'm Twiliness(DarkHighness), an undergraduate student, majoring Computer Science.
         </p>
     </div>
