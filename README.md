@@ -1,6 +1,6 @@
  <div align="center">
         <p style="font-weight: bold;">
-            Hi, I'm Twiliness or DarkHighness, undergraduate student.
+            Hi, I'm Twiliness(DarkHighness), an undergraduate student, majoring Computer Science.
         </p>
     </div>
     <div>
