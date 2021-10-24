@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-<div style="display: flex; align-items: center;">
-<p>Hi, I'm Twiliness (DarkHighness), an undergraduate student from China, majoring Computer Science.</p>
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/10475770?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d"></img>
-<div>
+**Hi, I'm Twiliness (DarkHighness), an undergraduate student from China, majoring Computer Science.**
 
 * 😄 **Pronouns**: He/Him
+* 👨‍💻 Avatar: ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/10475770?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
 * 🔑 **Interests**:  ![Functional Programming](https://img.shields.io/badge/Functional%20Programming-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Game Development](https://img.shields.io/badge/Game%20Development-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 * 🧪 **Interests**:  ![Performance Engineering](https://img.shields.io/badge/Performance%20Engineering-6078FF?style=for-the-badge&logo=baremetrics&logoColor=white)
 * 🖥️ **Operation System**:  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Nixos](https://img.shields.io/badge/NIXOS-%234B275F.svg?style=for-the-badge&logo=nixos&logoColor=white)
