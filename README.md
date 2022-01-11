@@ -15,6 +15,8 @@
 * 🎨 **Learning Frameworks:**  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 * 🕹️ **Spare Time**:  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Minecraft](https://img.shields.io/badge/Minecraft-%2376B900.svg?style=for-the-badge&logo=minecraft&logoColor=white)
 
+> It's all fake above (*^_^*).
+
 ## Github Status
 
 <div> 
