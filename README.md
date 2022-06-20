@@ -30,5 +30,8 @@
 
  ![Markdown](https://img.shields.io/badge/markdown%20💘-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
+## WakaTime
+<figure>
+	<embed src="https://wakatime.com/share/@0be225a1-10b7-4330-9d49-945dd4e740f8/41f30117-757c-4b76-b718-3fae8f9c1287.svg"></embed>
+</figure>
 
