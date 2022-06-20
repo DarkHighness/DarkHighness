@@ -17,7 +17,7 @@
 
 > It's all fake above (*^_^*).
 
-## WakaTime
+## WakaTime 🧐
 
 <!--START_SECTION:waka-->
 
@@ -29,7 +29,7 @@ C++              0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Github Status
+## Github Status 🥰
 
 <div> 
 	<a href="https://github.com/DarkHighness">
