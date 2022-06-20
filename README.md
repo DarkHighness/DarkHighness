@@ -20,6 +20,13 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
+
+```text
+Go               6 mins          ████████████████████░░░░░   80.19 %
+GitIgnore file   1 min           █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+C++              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Github Status
