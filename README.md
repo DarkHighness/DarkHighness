@@ -23,16 +23,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2022 - To: 09 July 2022
+From: 03 July 2022 - To: 10 July 2022
 
-Total Time: 24 hrs 26 mins
+Total Time: 24 hrs 5 mins
 
-Rust             7 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.45 %
-C++              4 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.06 %
-Vue.js           3 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-TeX              2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-CSS              1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-TypeScript       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Rust             7 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+C++              4 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Vue.js           3 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+TeX              2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+CSS              1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+TypeScript       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
