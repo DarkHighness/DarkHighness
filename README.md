@@ -23,16 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 July 2022 - To: 20 July 2022
+From: 14 July 2022 - To: 21 July 2022
 
-Total Time: 17 hrs 29 mins
+Total Time: 16 hrs 43 mins
 
-TeX          7 hrs 42 mins   ███████████░░░░░░░░░░░░░░   43.35 %
-Markdown     5 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.74 %
-C++          1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Rust         1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-HTML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown     6 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+TeX          6 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+Other        5 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   24.43 %
 ```
 
 <!--END_SECTION:waka-->
