@@ -23,13 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
+From: 15 July 2022 - To: 22 July 2022
 
-Total Time: 16 hrs 43 mins
+Total Time: 17 hrs 48 mins
 
-Markdown     6 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-TeX          6 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Other        5 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+Other        10 hrs 42 mins  █████████▒░░░░░░░░░░░░░░░   37.56 %
 ```
 
 <!--END_SECTION:waka-->
