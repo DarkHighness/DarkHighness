@@ -13,7 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-Temporarily Offline
+From: 27 November 2022 - To: 04 December 2022
+
+Total Time: 29 hrs 42 mins
+
+Rust             19 hrs 46 mins  ████████████████▒░░░░░░░░   65.98 %
+Vue.js           2 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+TeX              1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+C++              1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+TOML             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Python           29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
