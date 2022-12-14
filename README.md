@@ -37,6 +37,8 @@ Other           30 mins         █░░░░░░░░░░░░░░░
 	</a>
 </div>
 
+![3D-Profile](https://raw.githubusercontent.com/DarkHighness/DarkHighness/master/profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
  ![Markdown](https://img.shields.io/badge/markdown%20💘-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
