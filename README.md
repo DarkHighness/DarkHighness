@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-Total Time: 14 hrs 32 mins
+Total Time: 14 hrs 25 mins
 
-Rust             6 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   45.83 %
-TeX              2 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Jupyter          1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-C++              1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-HTML             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-CSS              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Rust             6 hrs 53 mins   ████████████░░░░░░░░░░░░░   47.44 %
+TeX              2 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Jupyter          1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+C++              1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+HTML             51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+CSS              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
