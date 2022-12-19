@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**I'm Twiliness.** 👋🏻
+**I'm Twiliness.** <a href="https://github.com/DarkHighness"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 </div>
 
@@ -31,10 +31,10 @@ CSS              22 mins         ▓░░░░░░░░░░░░░░�
 
 <div> 
 	<a href="https://github.com/DarkHighness">
-		<img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkHighness&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true" />
+		<img align="left" src="https://github-readme-stats-woad-zeta-10.vercel.app/api?username=DarkHighness&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true" />
 	</a>
 	<a href="https://github.com/DarkHighness">
-		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHighness&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true">
+		<img align="left" src="https://github-readme-stats-woad-zeta-10.vercel.app/api/top-langs/?username=DarkHighness&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true">
 	</a>
 </div>
 
