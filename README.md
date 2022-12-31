@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-Total Time: 12 hrs 54 mins
+Total Time: 14 hrs 28 mins
 
-Jupyter          5 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.77 %
-Rust             3 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
-Bash             52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-C++              47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Python           38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-JSON             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Jupyter          5 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   39.92 %
+Rust             3 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+Bash             52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+C++              51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+CSS              50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Python           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
