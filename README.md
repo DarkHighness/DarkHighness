@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
-Total Time: 29 hrs 40 mins
+Total Time: 28 hrs 9 mins
 
-Vue.js           9 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.32 %
-Haskell          6 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-Rust             4 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-Jupyter          1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Python           1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-JSON             1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Vue.js       9 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 %
+Haskell      6 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Rust         3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Jupyter      1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Python       1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+JSON         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
 ```
 
 <!--END_SECTION:waka-->
