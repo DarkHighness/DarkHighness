@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 26 January 2023
+From: 20 January 2023 - To: 27 January 2023
 
-Total Time: 7 hrs 36 mins
+Total Time: 11 hrs 41 mins
 
-Rust             2 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.63 %
-C++              1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-CSS              1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-Scala            56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-YAML             37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Markdown         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Rust             6 hrs 30 mins   ██████████████░░░░░░░░░░░   55.34 %
+C++              1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+CSS              59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Scala            56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+YAML             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Markdown         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
