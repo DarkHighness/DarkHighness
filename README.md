@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-Total Time: 9 hrs 24 mins
+Total Time: 9 hrs 54 mins
 
-TeX          7 hrs 10 mins   ███████████████████░░░░░░   76.24 %
-C++          1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
-CSS          32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Jupyter      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TeX          7 hrs 10 mins   ██████████████████░░░░░░░   72.38 %
+C++          1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+CSS          45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+HTML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Jupyter      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
