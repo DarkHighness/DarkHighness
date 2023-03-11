@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2023 - To: 09 March 2023
+From: 03 March 2023 - To: 10 March 2023
 
-Total Time: 5 hrs 44 mins
+Total Time: 4 hrs 23 mins
 
-C++          2 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.67 %
-CSS          1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-HTML         1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-Markdown     44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Jupyter      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++          1 hr 57 mins    ███████████░░░░░░░░░░░░░░   44.39 %
+HTML         57 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+Markdown     44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
+CSS          37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Jupyter      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
