@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2023 - To: 26 March 2023
+From: 20 March 2023 - To: 27 March 2023
 
-Total Time: 6 hrs 25 mins
+Total Time: 5 hrs 53 mins
 
-C++          3 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.69 %
-Other        1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+C++          3 hrs 34 mins   ████████████░░░░░░░░░░░░░   48.30 %
+Other        1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.48 %
 ```
 
 <!--END_SECTION:waka-->
