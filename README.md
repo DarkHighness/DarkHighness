@@ -25,17 +25,15 @@ Other        49 mins         ██████░░░░░░░░░░░
 
 ## Github Status 🥰
 
-<div> 
-	<a href="https://github.com/DarkHighness">
-		<img align="left" src="https://github-readme-stats-woad-zeta-10.vercel.app/api?username=DarkHighness&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true" />
-	</a>
-	<a href="https://github.com/DarkHighness">
-		<img align="left" src="https://github-readme-stats-woad-zeta-10.vercel.app/api/top-langs/?username=DarkHighness&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true">
-	</a>
+<div style="display: flex; gap: 8px;">
+<img src="https://github-readme-stats.vercel.app/api?username=DarkHighness&count_private=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 </div>
 
-![3D-Profile](https://raw.githubusercontent.com/DarkHighness/DarkHighness/master/profile-3d-contrib/profile-south-season-animate.svg)
+<!-- ![3D-Profile](https://raw.githubusercontent.com/DarkHighness/DarkHighness/master/profile-3d-contrib/profile-south-season-animate.svg) -->
 
-
+![Snake-Profile](https://raw.githubusercontent.com/DarkHighness/DarkHighness/master/dist/github-snake.svg)
 
  ![Markdown](https://img.shields.io/badge/markdown%20💘-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
