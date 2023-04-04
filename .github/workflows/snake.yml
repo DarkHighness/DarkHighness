@@ -3,13 +3,14 @@ name: Snake Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 6 * * *"
 
 jobs:
   update-readme:
     name: Generate Snake SVG
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: Platane/snk@v2
         with:
           # github user name to read the contribution graph from (**required**)
@@ -29,3 +30,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "snake profiles"
+          git push

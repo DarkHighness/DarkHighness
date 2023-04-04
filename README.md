@@ -26,8 +26,8 @@ Other        49 mins         ██████░░░░░░░░░░░
 ## Github Status 🥰
 
 <div style="display: flex; gap: 8px;">
-<img src="https://github-readme-stats.vercel.app/api?username=DarkHighness&count_private=true&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DarkHighness&count_private=true&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHighness&hide_border=true"/>
 </div>
 
 <!-- ![3D-Profile](https://raw.githubusercontent.com/DarkHighness/DarkHighness/master/profile-3d-contrib/profile-south-season-animate.svg) -->
