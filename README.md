@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-Total Time: 1 hr 22 mins
+Total Time: 1 hr 19 mins
 
-C++          40 mins         ████████████▒░░░░░░░░░░░░   49.34 %
-Markdown     29 mins         █████████░░░░░░░░░░░░░░░░   35.48 %
-Bash         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-SSH Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+C++          38 mins         ████████████░░░░░░░░░░░░░   47.78 %
+Markdown     29 mins         █████████░░░░░░░░░░░░░░░░   36.53 %
+Bash         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+SSH Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
