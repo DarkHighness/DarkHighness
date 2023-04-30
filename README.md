@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2023 - To: 28 April 2023
+From: 22 April 2023 - To: 29 April 2023
 
-Total Time: 14 mins
+Total Time: 13 mins
 
-C++          14 mins         ████████████████████████▓   98.47 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+C++     13 mins         █████████████████████████   99.99 %
+CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
