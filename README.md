@@ -13,12 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 25 April 2023 - To: 02 May 2023
 
-Total Time: 3 mins
+Total Time: 1 hr 36 mins
 
-C++     3 mins          █████████████████████████   99.94 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown   1 hr 22 mins    █████████████████████▒░░░   85.93 %
+C++        10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+CMake      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
