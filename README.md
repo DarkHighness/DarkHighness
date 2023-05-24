@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2023 - To: 22 May 2023
+From: 16 May 2023 - To: 23 May 2023
 
-Total Time: 7 hrs 51 mins
+Total Time: 13 hrs 9 mins
 
-TeX            4 hrs 30 mins   ██████████████▒░░░░░░░░░░   56.98 %
-Jupyter        1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-C++            58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Markdown       35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Git Config     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+TeX              8 hrs 32 mins   ████████████████░░░░░░░░░   64.25 %
+Jupyter          1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+C++              47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Python           47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Markdown         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
