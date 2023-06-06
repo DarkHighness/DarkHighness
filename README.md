@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Total Time: 53 mins
+Total Time: 3 hrs 30 mins
 
-C++           53 mins         ████████████████████▓░░░░   82.21 %
-Other         11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-SSH Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-ObjectiveC    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TeX           2 hrs 32 mins   █████████████████▒░░░░░░░   69.11 %
+C++           55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
+Other         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Git Config    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+SSH Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
