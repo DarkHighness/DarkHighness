@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
-Total Time: 10 hrs 42 mins
+Total Time: 15 hrs 5 mins
 
-TeX              9 hrs 32 mins   ██████████████████████▒░░   89.09 %
-C++              44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-PostScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-BibTeX           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TeX              13 hrs 43 mins  ██████████████████████▓░░   90.96 %
+C++              47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+BibTeX           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+PostScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
