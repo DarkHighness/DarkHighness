@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-Total Time: 14 hrs 10 mins
+Total Time: 11 hrs 27 mins
 
-TeX              12 hrs 38 mins  ██████████████████████▒░░   89.08 %
-C++              59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-BibTeX           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-PostScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-OpenEdge ABL     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TeX              10 hrs          █████████████████████▓░░░   87.32 %
+C++              59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+BibTeX           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+PostScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
