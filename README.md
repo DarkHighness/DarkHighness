@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 27 June 2023
+From: 21 June 2023 - To: 28 June 2023
 
-Total Time: 14 mins
+Total Time: 12 mins
 
-C++     10 mins         ██████████████████▒░░░░░░   73.36 %
-YAML    3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+C++     8 mins          █████████████████▒░░░░░░░   69.50 %
+YAML    3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 %
+CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
