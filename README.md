@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-Total Time: 16 mins
+Total Time: 14 mins
 
-C++   16 mins         █████████████████████████   100.00 %
+C++   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
