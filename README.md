@@ -13,13 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2023 - To: 15 August 2023
+From: 09 August 2023 - To: 16 August 2023
 
-Total Time: 1 hr 12 mins
+Total Time: 0 secs
 
-Jupyter   1 hr 9 mins     ████████████████████████░   95.38 %
-CSV       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Python    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
