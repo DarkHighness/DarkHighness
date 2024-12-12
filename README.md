@@ -8,20 +8,6 @@
 
 </div>
 
-## WakaTime 🧐
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 03 December 2024 - To: 10 December 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## Github Status 🥰
 
 <div style="display: flex; gap: 8px;">
