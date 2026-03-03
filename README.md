@@ -11,8 +11,7 @@
 ## Github Status 🥰
 
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=DarkHighness&count_private=true&show_icons=true&hide_border=true"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHighness&hide_border=true"/> -->
+<img src="https://raw.githubusercontent.com/DarkHighness/DarkHighness/refs/heads/master/profile/stats.svg" />
 </div>
 
 ## Contribution Graph 😄
