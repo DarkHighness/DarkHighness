@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Twiliness' GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 116, Total Commits  (last year) : 1480, Total PRs: 15, Total Issues: 4, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 116, Total Commits  (last year) : 1468, Total PRs: 15, Total Issues: 4, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 118.48731680824474;
+        stroke-dashoffset: 118.5107214762086;
       }
     }
   
